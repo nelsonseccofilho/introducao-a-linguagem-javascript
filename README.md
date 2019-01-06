@@ -7,6 +7,6 @@ Curso para aprender programação front-end usando a linguagem JavaScript
 - Utilizar eventos
 - Criar funções
 
-link do curso: [https://www.udemy.com/introducao-a-linguagem-javascript/]: https://www.udemy.com/introducao-a-linguagem-javascript/
+link do curso: https://www.udemy.com/introducao-a-linguagem-javascript/
 
  
